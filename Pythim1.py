@@ -1,4 +1,3 @@
-from NO_Q import *
 import pyautogui
 import time
 
